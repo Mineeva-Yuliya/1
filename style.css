@@ -1,0 +1,33 @@
+html,
+body {
+  font-family: "Lato", "Open Sans", "Arial";
+  font-size: 15px;
+  min-width: 1920px;
+  min-height: 4685px;  
+  background-color: #FFFFFF;
+}
+
+.container {  
+  width: 900px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.main-header {
+  padding-top: 440px;
+  background: url("../img/Layer 8.png.jpg") no-repeat;
+}
+
+
+
+h1 {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
