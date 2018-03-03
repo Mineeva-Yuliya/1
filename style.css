@@ -16,7 +16,7 @@ body {
   text-transform: uppercase;
   height: 1072px;
   padding-top: 440px;
-  background-image: url("../img/Layer 8.png") no-repeat;
+  background-image: url("../img/Layer 8.png");
   /*color: #FFFFFF;*/
 }
 
